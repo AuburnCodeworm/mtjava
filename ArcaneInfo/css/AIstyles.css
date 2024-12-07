@@ -3,7 +3,7 @@
  }
 
   #image {
-    max-width: 10%;
-    height: 50%;
+    max-width: 100%;
+    height: auto%;
     align: center;
   }
