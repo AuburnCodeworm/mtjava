@@ -7,3 +7,7 @@
     height: auto%;
     align: center;
   }
+
+ p {
+   font-size: 3rem;
+ }
