@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baking Technical Documentation</title>
+  <link rel="stylesheet" href="BDstyles.css">
+</head>
+<body>
+  <nav id="navbar">
+    <header>Baking Basics</header>
+    <a href="#Introduction_to_Baking" class="nav-link">Introduction to Baking</a>
+    <a href="#Essential_Ingredients" class="nav-link">Essential Ingredients</a>
+    <a href="#Tools_of_the_Trade" class="nav-link">Tools of the Trade</a>
+    <a href="#Baking_Techniques" class="nav-link">Baking Techniques</a>
+    <a href="#Troubleshooting_Tips" class="nav-link">Troubleshooting Tips</a>
+  </nav>
+  
+  <main id="main-doc">
+    <section id="Introduction_to_Baking" class="main-section">
+      <header>Introduction to Baking</header>
+      <p>Baking is both an art and a science, requiring precision and creativity.</p>
+      <p>It involves combining ingredients in specific ways to create delicious breads, cakes, pastries, and more.</p>
+      <p>Understanding the basics is the first step toward mastering the craft.</p>
+      <code>Preheat your oven to 350°F (175°C).</code>
+      <ul>
+        <li>Baking relies on chemical reactions.</li>
+        <li>Measurements must be precise.</li>
+        <li>Practice improves results.</li>
+      </ul>
+    </section>
+    
+    <section id="Essential_Ingredients" class="main-section">
+      <header>Essential Ingredients</header>
+      <p>Every baker should understand the role of key ingredients.</p>
+      <p>For instance, flour provides structure, while sugar adds sweetness and browning.</p>
+      <code>1 cup of all-purpose flour = 120 grams</code>
+      <ul>
+        <li>Flour</li>
+        <li>Sugar</li>
+        <li>Butter</li>
+        <li>Eggs</li>
+        <li>Leavening agents (e.g., baking powder)</li>
+      </ul>
+    </section>
+    
+    <section id="Tools_of_the_Trade" class="main-section">
+      <header>Tools of the Trade</header>
+      <p>The right tools make baking easier and more precise.</p>
+      <p>Basic tools include mixing bowls, a rolling pin, and measuring cups.</p>
+      <code>Baking pan size: 9"x13" = standard sheet cake pan</code>
+      <ul>
+        <li>Mixing bowls</li>
+        <li>Measuring cups and spoons</li>
+        <li>Rolling pin</li>
+        <li>Baking pans</li>
+        <li>Stand mixer</li>
+      </ul>
+    </section>
+    
+    <section id="Baking_Techniques" class="main-section">
+      <header>Baking Techniques</header>
+      <p>Mastering techniques like creaming, folding, and kneading is essential.</p>
+      <p>Temperature control and timing are also critical.</p>
+      <code>Whisk eggs and sugar until pale and fluffy.</code>
+      <ul>
+        <li>Creaming butter and sugar</li>
+        <li>Kneading dough</li>
+        <li>Folding ingredients</li>
+        <li>Using a water bath</li>
+        <li>Blind baking</li>
+      </ul>
+    </section>
+    
+    <section id="Troubleshooting_Tips" class="main-section">
+      <header>Troubleshooting Tips</header>
+      <p>Even experienced bakers encounter challenges.</p>
+      <p>Common issues include flat cakes, soggy crusts, and overly dense bread.</p>
+      <code>Test cake doneness: Insert a toothpick; it should come out clean.</code>
+      <ul>
+        <li>Check oven temperature with a thermometer.</li>
+        <li>Measure ingredients carefully.</li>
+        <li>Don't overmix batter.</li>
+        <li>Let dough rest when required.</li>
+        <li>Use parchment paper to prevent sticking.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
