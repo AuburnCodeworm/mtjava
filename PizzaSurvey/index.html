@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Survey Form</title>
-  <link rel="stylesheet" href="css/PSstyles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
@@ -18,6 +18,7 @@
         id="name" 
         type="text" 
         placeholder="Enter your name" 
+        class="basic"
         required>
       
       <label id="email-label" for="email" class="title">Email:</label>
@@ -25,6 +26,7 @@
         id="email" 
         type="email" 
         placeholder="Enter your email" 
+        class="basic"
         required>
       
       <label id="number-label" for="number" class="title">Age:</label>
@@ -34,6 +36,7 @@
         placeholder="Enter your age" 
         min="1" 
         max="120" 
+        class="basic"
         required>
 
       <label for="dropdown" class="title">Which kind of crust do you prefer?</label>
@@ -45,7 +48,7 @@
         <option value="stuffed">Stuffed</option>
       </select>
 
-      <label class="title">What sauce do you prefer?</label>
+      <label class="title2">What sauce do you prefer?</label>
       <label>
         <input 
           type="radio" 
@@ -63,7 +66,7 @@
         <input type="radio" name="frequency" value="buffalo"> Buffalo
       </label>
 
-      <label class="title">What dressing do you prefer?</label>
+      <label class="title2">What dressing do you prefer?</label>
       <label>
         <input 
           type="radio" 
@@ -84,7 +87,7 @@
           value="BBQ"> Barbeque
       </label>
 
-      <label class="title">What toppings do you prefer?</label>
+      <label class="title2">What toppings do you prefer?</label>
       <label>
         <input 
         type="checkbox" 
@@ -153,7 +156,7 @@
       </label>
 
 
-      <label for="comments" class="title">Additional comments:</label>
+      <label for="comments" class="title2">Additional comments:</label>
       <textarea 
         id="comments" 
         placeholder="Enter your comments here..."></textarea>
@@ -163,4 +166,3 @@
   </main>
 </body>
 </html>
-
